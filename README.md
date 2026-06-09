@@ -23,7 +23,7 @@ Stripe updates the sheet when payment is confirmed via webhook
 When a cancellation request is received, Stripe processes the refund
 
 ## 🏗️ Architecture
-![Architecture](docs/architecture.png)
+![Architecture](architecture.jpg)
 
 ## ⚙️ Setup Guide
 1. Install n8n
@@ -33,3 +33,6 @@ When a cancellation request is received, Stripe processes the refund
 - WhatsApp credentials 
 - Google Sheets OAuth
 4. Activate Workflows
+
+
+  
